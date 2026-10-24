@@ -3,7 +3,7 @@
   "name": "io.github.pipeworx-io/cobalt",
   "title": "Cobalt",
   "description": "Cobalt Intelligence MCP — US Secretary-of-State business registration, UCC liens, and TIN/EIN…",
-  "version": "0.1.3",
+  "version": "0.1.4",
   "websiteUrl": "https://pipeworx.io/packs/cobalt",
   "repository": {
     "url": "https://github.com/pipeworx-io/mcp-cobalt",
